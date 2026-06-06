@@ -1,0 +1,5 @@
+let usuarios=[{id:1,nome:'Administrador',login:'admin',senha:'admin123',cargo:'ADM'}];
+let mensagens=[];
+let modelos=[];
+let pontos=[];
+console.log('Sistema ADM carregado');
